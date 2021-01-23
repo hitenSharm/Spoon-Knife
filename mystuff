@@ -1,0 +1,12 @@
+hello world this was my first commit here
+#include<iostream>
+using namespace std;
+
+int main()
+{
+
+cout<<"hello"<<endl;
+
+return 0;
+
+}
